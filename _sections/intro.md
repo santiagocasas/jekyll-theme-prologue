@@ -1,0 +1,16 @@
+---
+title: Intro
+cover-photo: assets/images/banner.jpg
+cover-photo-alt: example cover photo
+auto-header: none
+icon: fa-comment
+order: 1
+---
+
+# This is my personal website
+## Physics, Blog, Photos
+
+
+<footer>
+  <a href="#portfolio" class="button scrolly">My Portfolio</a>
+</footer>
