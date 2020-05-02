@@ -2,3 +2,29 @@
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
 @import "jekyll-theme-prologue";
+
+img[src~="thumbnail"] {
+
+   width:150px;
+
+   height:auto;
+
+
+}
+
+img[src~="bordered"] {
+
+   border: 1px solid black;
+
+}
+
+
+img[src~="right"] {
+
+   float: right;
+
+}
+
+.aliright {
+   text-align: right;
+}
